@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 9bef824ac90b649e1bfb2e80eb9eb95f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 163
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d93fb988d8a14eb1bd2f506f3141147
+      internalID: -1051133702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 163
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55697180ea4534e61a8a7d98cf8e9cef
+      internalID: -1246228266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 163
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101d13fe07a6d41afae6e2e7c4f5edd4
+      internalID: 1999226930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c2b8b8b5b9d424fa5e6e8e59a4a617
+      internalID: 622319438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 163
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e00c3c7ca134ad69cd4c3c09f3921e
+      internalID: -1926390882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 163
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e033fda82cff3499eb1c71671d5ea5ba
+      internalID: 944824131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 163
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6424e02652e504bcf9c2122b388f7dd1
+      internalID: 293757299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 124
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cf5d47ce1db4af2a30fe657d6b1cd5
+      internalID: 1100206407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 124
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d386d39589e443981818bee4ce083e
+      internalID: 626958978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 124
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583d782f00eb6427ea14173121479a1e
+      internalID: 1125525397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 124
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402fdbc7edeb9408da16b7c3fc89cf2c
+      internalID: 394657612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 124
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9546aa4d9ba06439eadaa00bf0747904
+      internalID: 166064565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 124
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34edb30bb60bd47a3b262799aa798196
+      internalID: -1499305783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 124
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d121085628fd4478b39902aff8dc5a6
+      internalID: -261894168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 82
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be88e4a9144e44d3b5db3088a5414bf
+      internalID: 1057306963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 82
+        width: 13
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09a886f280c8484ca8796ffb38cd089
+      internalID: 1924493596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 82
+        width: 13
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e5b141d17a14cbea50231ad3ba2196
+      internalID: 384538452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 43
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a517aad8306284eea91088328f933b5b
+      internalID: 362168547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 43
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23d63c8674f84b949c1c46f7787c38c
+      internalID: 32981802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 43
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1a781ce771f457784051d0d672a888
+      internalID: -792307393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81656a98bd3834536a3d8c9daf8e72d0
+      internalID: -1570998185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e301856b725405f9047cccbb90eb3b
+      internalID: 575624759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Abby sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 15
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03fa0039728841c98793cafd97b8cd0
+      internalID: -2029957928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      4_Abby sprite sheet_12: -1499305783
+      4_Abby sprite sheet_8: 626958978
+      4_Abby sprite sheet_21: 575624759
+      4_Abby sprite sheet_1: -1246228266
+      4_Abby sprite sheet_19: -792307393
+      4_Abby sprite sheet_5: 944824131
+      4_Abby sprite sheet_7: 1100206407
+      4_Abby sprite sheet_22: -2029957928
+      4_Abby sprite sheet_11: 166064565
+      4_Abby sprite sheet_3: 622319438
+      4_Abby sprite sheet_14: 1057306963
+      4_Abby sprite sheet_17: 362168547
+      4_Abby sprite sheet_10: 394657612
+      4_Abby sprite sheet_2: 1999226930
+      4_Abby sprite sheet_16: 384538452
+      4_Abby sprite sheet_4: -1926390882
+      4_Abby sprite sheet_13: -261894168
+      4_Abby sprite sheet_18: 32981802
+      4_Abby sprite sheet_20: -1570998185
+      4_Abby sprite sheet_9: 1125525397
+      4_Abby sprite sheet_6: 293757299
+      4_Abby sprite sheet_0: -1051133702
+      4_Abby sprite sheet_15: 1924493596
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
